@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelmendes777" alt="rafaelmendes777" /></a> </p>
 
+
+  
 - 💬 Ask me about **Blockchain, Smart Contract, Ethereum, Solana, Ton, Trading Bot, DeFi, Dapps**
 
 - 📫 How to reach me **rafaelmendesdelima626@gmail.com**
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelmendes777&show_icons=true&locale=en&layout=compact" alt="rafaelmendes777" /></p>
